@@ -111,7 +111,6 @@ Com o **Protheus App Builder**, todo esse fluxo é simplificado:
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight" />
-</p>
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight)
