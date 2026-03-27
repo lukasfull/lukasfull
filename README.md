@@ -106,14 +106,15 @@ Com o **Protheus App Builder**, todo esse fluxo é simplificado:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-<div align="center">
+### 📊 Atividade
 
-<div align="center">
+[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lukasfull&theme=tokyonight&area=true&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats-tau-ten-75.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats-tau-ten-75.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠️ Dominando no dia a dia
 
-</div>
-
-</div>
+| Backend & ERP | Frontend | Ferramentas |
+| :--- | :--- | :--- |
+| ![ADVPL](https://img.shields.io/badge/-ADVPL-005CA9?style=flat-square) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![TLPP](https://img.shields.io/badge/-TLPP-005CA9?style=flat-square) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square) |
+| ![Protheus](https://img.shields.io/badge/-Protheus-005CA9?style=flat-square) | ![PO-UI](https://img.shields.io/badge/-PO--UI-005CA9?style=flat-square) 
