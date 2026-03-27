@@ -106,6 +106,12 @@ Com o **Protheus App Builder**, todo esse fluxo é simplificado:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lukasfull&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
