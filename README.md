@@ -12,7 +12,7 @@ Tenho experiência com **ADVPL**, **TLPP**, **programação orientada a objetos*
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="SEU_LINK_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/lucassilvahl/">
     <img src="https://img.shields.io/badge/LinkedIn-LUCAS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
