@@ -8,7 +8,3 @@
 - TypeScript
 - AdvPL/TLPP
 - SQL
-
-
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/lucassilvahl/
