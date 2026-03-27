@@ -112,6 +112,4 @@ Com o **Protheus App Builder**, todo esse fluxo é simplificado:
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukasfull&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasfull&layout=compact&theme=tokyonight)
+![Teste](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
