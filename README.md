@@ -106,10 +106,3 @@ Com o **Protheus App Builder**, todo esse fluxo é simplificado:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
----
-
-
-## 📊 GitHub Stats
-
-
-![Teste](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
