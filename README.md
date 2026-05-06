@@ -41,7 +41,7 @@ Tenho experiência com **ADVPL**, **TLPP**, **programação orientada a objetos*
 
 Extensão para **Visual Studio Code** que automatiza a geração de arquivos `.app` para projetos Protheus que utilizam **PO-UI + ADVPL**.
 
-👉 https://marketplace.visualstudio.com/items?itemName=lukasfull.protheus-app-generator
+👉 https://marketplace.visualstudio.com/items?itemName=pouiapp.poui-app-builder
 
 **Problema que resolve:**
 
@@ -60,10 +60,10 @@ Esse processo é **repetitivo, manual e suscetível a erros**, principalmente em
 
 **Solução proposta:**
 
-Com o **Protheus App Builder**, todo esse fluxo é simplificado:
+Com o **POUI App Builder**, todo esse fluxo é simplificado:
 
 - Clique com o botão direito no projeto
-- Selecione **"Gerar Protheus App Builder"**
+- Selecione **"Gerar POUI App Builder"**
 - Escolha o diretório de saída
 - Pronto — o `.app` é gerado automaticamente 🚀
 
