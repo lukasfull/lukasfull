@@ -1,3 +1,3 @@
- **Protheus Developer | ADVPL | TLPP | Angular **  
+ Protheus Developer | ADVPL | TLPP | Angular  
 
 
